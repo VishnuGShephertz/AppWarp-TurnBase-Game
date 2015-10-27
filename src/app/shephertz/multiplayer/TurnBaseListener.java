@@ -39,5 +39,13 @@ private WarpController callBack;
 		// TODO Auto-generated method stub
 		
 	}
+	/* (non-Javadoc)
+	 * @see com.shephertz.app42.gaming.multiplayer.client.listener.TurnBasedRoomListener#onSetNextTurnDone(byte)
+	 */
+	@Override
+	public void onSetNextTurnDone(byte arg0) {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
